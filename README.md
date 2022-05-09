@@ -16,6 +16,5 @@
 ✔ Current interest in 
 * *Andorid*   
 -Android Architecture    
--Android asynchronous programming
 
 * *Blockchain*
