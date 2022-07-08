@@ -14,7 +14,3 @@
 <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/> <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/> <img alt="Gitlab" src ="https://img.shields.io/badge/Gitlab-FCA121.svg?&style=for-the-badge&logo=Gitlab&logoColor=white"/> <img alt="Bitbucket" src ="https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white"/> <img alt="Power BI" src ="https://img.shields.io/badge/Power BI-F2C811.svg?&style=for-the-badge&logo=Power BI&logoColor=white"/> <img alt="RPA" src ="https://img.shields.io/badge/RPA-FF69B4.svg?&style=for-the-badge&logoColor=white"/>   
 
 ✔ Current interest in 
-* *Andorid*   
--Android Architecture    
-
-* *Blockchain*
